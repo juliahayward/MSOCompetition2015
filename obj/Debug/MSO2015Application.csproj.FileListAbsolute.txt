@@ -1,0 +1,9 @@
+d:\MSO2015\MSO2015Application\bin\Debug\MSO2015Application.exe.config
+d:\MSO2015\MSO2015Application\bin\Debug\MSO2015Application.exe
+d:\MSO2015\MSO2015Application\bin\Debug\MSO2015Application.pdb
+d:\MSO2015\MSO2015Application\obj\Debug\MSO2015Application.csprojResolveAssemblyReference.cache
+d:\MSO2015\MSO2015Application\obj\Debug\MSO2015Application.Form1.resources
+d:\MSO2015\MSO2015Application\obj\Debug\MSO2015Application.Properties.Resources.resources
+d:\MSO2015\MSO2015Application\obj\Debug\MSO2015Application.csproj.GenerateResource.Cache
+d:\MSO2015\MSO2015Application\obj\Debug\MSO2015Application.exe
+d:\MSO2015\MSO2015Application\obj\Debug\MSO2015Application.pdb
